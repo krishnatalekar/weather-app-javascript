@@ -6,7 +6,7 @@
 
 ### Links
 
-- Live Site URL: [](https://krishnatalekar.github.io/weather-app-javascript/)
+- URL: [live Site URL](https://krishnatalekar.github.io/weather-app-javascript/)
 
 ### Built with
 
